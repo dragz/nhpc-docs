@@ -1,4 +1,7 @@
-nhpc-docs
-=========
+NHPC Documentation
+=======================
 
-Common place to put documentation.
+This is supposed to be the place to share technical documentation for the NHPC-project.
+
+More info about NHPC can be found at http://nhpc.hi.is
+
